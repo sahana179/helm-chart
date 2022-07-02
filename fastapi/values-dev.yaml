@@ -3,7 +3,6 @@ image:
 
 service:
   nodePort: 30301
-
 autoscaling:
   enabled: false
   minReplicas: 1
