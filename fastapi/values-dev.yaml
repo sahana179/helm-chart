@@ -1,5 +1,5 @@
 image:
-  tag: "35"
+  tag: "36"
 service:
   nodePort: 30301
 autoscaling:
