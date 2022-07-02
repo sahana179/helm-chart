@@ -1,9 +1,7 @@
 image:
-  tag: "tag"
-
+  tag: "33"
 service:
   nodePort: 30301
-
 autoscaling:
   enabled: false
   minReplicas: 1
