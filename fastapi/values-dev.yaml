@@ -1,3 +1,6 @@
+image:
+  tag: "tag"
+
 service:
   nodePort: 30301
 

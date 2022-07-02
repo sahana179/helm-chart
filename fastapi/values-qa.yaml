@@ -1,5 +1,8 @@
+image:
+  tag:
+
 service:
-  nodePort: 30302
+  nodePor5t: 30302
 
 autoscaling:
   enabled: false
