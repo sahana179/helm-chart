@@ -1,5 +1,5 @@
 image:
-  tag: "tag"
+  tag: ""
 
 service:
   nodePort: 30301
