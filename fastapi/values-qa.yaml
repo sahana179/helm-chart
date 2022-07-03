@@ -1,5 +1,5 @@
 image:
-  tag:
+  tag: "37"
 
 service:
   nodePor5t: 30302
