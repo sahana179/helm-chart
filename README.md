@@ -22,7 +22,7 @@ We have environment specific values for their deployment here in a `values-{env}
 
 <a name="installing-the-chart"></a>
 ### Installing the Chart
-Installing the chart (or upgrading) can be done by using the example below. You must replace `***HIDDEN***` with the correct values for the paricular secrets this chart requires be entered on the CLI for manual deploys. See the [prerequisites](#prerequisites) for more info.
+Installing the chart (or upgrading) can be done by using the example below. You must replace `<Target_Image_Tag>` with the correct values of the Image to be deployed in the target environment.
 ```
 helm upgrade \
    --install fastapi \
