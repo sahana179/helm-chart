@@ -1,5 +1,5 @@
 image:
-  tag: "38"
+  tag: "41"
 
 service:
   nodePort: 30302
